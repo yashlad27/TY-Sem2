@@ -1,3 +1,5 @@
 birth_year = input('What year were you born?\n')
 
-print(birth_year)
+age = 2023 - int(birth_year)
+
+print(f"Your age is: {age}")
