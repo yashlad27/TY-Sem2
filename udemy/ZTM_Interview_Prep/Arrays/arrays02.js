@@ -1,0 +1,2 @@
+// Static VS Dynamic arrays:
+
