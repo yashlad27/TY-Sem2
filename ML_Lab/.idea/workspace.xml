@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81560870-dc8d-43a3-82a0-41c79fddc9bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ML_Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ML_Lab02-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML_Lab02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ML_Lab02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udemy/ZTM_Interview_Prep/Arrays/main.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +39,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673839391727</updated>
       <workItem from="1673839393189" duration="1748000" />
+      <workItem from="1674443707711" duration="308000" />
     </task>
     <servers />
   </component>
