@@ -21,3 +21,12 @@ new_list = [
 ]
 
 print(new_list[0]['a'])
+
+# dictionary methods:
+
+user = {
+    'basket': [1, 2, 3],
+    'greet': "hello"
+}
+
+print(user.get("age"))
